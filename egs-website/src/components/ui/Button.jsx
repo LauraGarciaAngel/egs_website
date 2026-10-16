@@ -15,7 +15,8 @@ export default function Button({
     'inline-flex items-center justify-center gap-2 px-6 py-3 rounded-md font-semibold text-sm transition-all duration-300 focus:outline-none focus:ring-2 focus:ring-cyan-acento/50';
 
   const variants = {
-    primary: 'bg-cyan-acento hover:bg-cyan-acento/90 text-white shadow-sm',
+    // Texto azul profundo sobre cyan: contraste ~4.9:1 (blanco daba ~2.7:1)
+    primary: 'bg-cyan-acento hover:bg-cyan-acento/90 text-azul-profundo shadow-sm',
     secondary: 'bg-white/10 hover:bg-white/20 border border-white/20 text-white',
     outline: 'border-2 border-azul-profundo text-azul-profundo hover:bg-azul-profundo hover:text-white',
   };

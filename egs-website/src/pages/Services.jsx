@@ -38,7 +38,7 @@ export default function Services() {
           />
           <ServiceCard
             id="digitalizacion"
-            icon="fas fa-scanner-image"
+            icon="fas fa-file-arrow-up"
             badgeText="Más solicitado"
             badgeType="cyan"
             title="Digitalización y Preservación Digital"

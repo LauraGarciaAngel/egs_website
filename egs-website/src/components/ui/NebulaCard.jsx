@@ -15,7 +15,7 @@ export default function NebulaCard() {
             Bodega Virtual
           </h2>
           <p className="text-sm sm:text-base text-white/80 leading-relaxed mb-7">
-            Nuestro software de preservación digital desarrollado bajo el estándar internacional OAIS (Open Archival Information System). Una solución que muy pocas empresas del sector ofrecen en Colombia.[cite: 5]
+            Nuestro software de preservación digital desarrollado bajo el estándar internacional OAIS (Open Archival Information System). Una solución que muy pocas empresas del sector ofrecen en Colombia.
           </p>
           <Button to="/contacto" variant="primary" icon="fas fa-arrow-right">
             Solicitar demo

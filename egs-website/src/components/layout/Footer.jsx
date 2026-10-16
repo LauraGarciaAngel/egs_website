@@ -10,7 +10,7 @@ export default function Footer() {
             <img src={logoImg} alt="EGS Soluciones Integrales" className="h-12 w-auto mb-4" />
           </Link>
           <p className="text-gray-300 text-sm leading-relaxed">
-            Firma consultora especializada en gestión documental para entidades públicas y privadas de Colombia. Más de 10 años transformando la información en eficiencia.[cite: 1]
+            Firma consultora especializada en gestión documental para entidades públicas y privadas de Colombia. Más de 10 años transformando la información en eficiencia.
           </p>
         </div>
 

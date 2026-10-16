@@ -13,7 +13,7 @@ export default function NotFound() {
         <p className="text-xl text-gray-600 mb-8">La página que buscas no existe o ha sido movida.</p>
         <Link
           to="/"
-          className="bg-cyan-acento text-white px-6 py-3 rounded-md font-semibold hover:bg-cyan-acento/90 transition-all"
+          className="bg-cyan-acento text-azul-profundo px-6 py-3 rounded-md font-semibold hover:bg-cyan-acento/90 transition-all"
         >
           Volver al Inicio
         </Link>

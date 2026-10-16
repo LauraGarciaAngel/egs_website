@@ -2,7 +2,7 @@ export default function SectionHeader({ label, title, description, center = true
   return (
     <div className={`mb-12 ${center ? 'text-center' : 'text-left'}`}>
       {label && (
-        <span className="text-xs font-bold tracking-widest text-cyan-acento uppercase block mb-2">
+        <span className={`text-xs font-bold tracking-widest uppercase block mb-2 ${dark ? 'text-cyan-acento' : 'text-cyan-texto'}`}>
           {label}
         </span>
       )}

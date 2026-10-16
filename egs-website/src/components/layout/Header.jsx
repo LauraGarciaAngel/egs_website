@@ -32,7 +32,7 @@ export default function Header() {
           <NavLink to="/proyectos" className={linkClass}>Proyectos</NavLink>
           <NavLink
             to="/contacto"
-            className="bg-cyan-acento text-white px-5 py-2.5 rounded-md font-semibold hover:bg-cyan-acento/90 transition-all"
+            className="bg-cyan-acento text-azul-profundo px-5 py-2.5 rounded-md font-semibold hover:bg-cyan-acento/90 transition-all"
           >
             Contáctanos
           </NavLink>
